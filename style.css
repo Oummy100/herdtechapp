@@ -5,3 +5,19 @@
 .gris{
 background: #d2d2d2;
 }
+
+.largeur{
+    width: 100%;
+    max-width: 15rem;
+}
+
+.cercle{
+    width: 100%;
+    max-width: 5rem;
+}
+
+.sidebar{
+    width: 100%;
+    max-width: 10rem;
+    height: 100%;
+}
