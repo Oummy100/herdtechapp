@@ -11,6 +11,18 @@ background: #d2d2d2;
     max-width: 5rem;
 }
 
+.notification{
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(-50%, -50%);
+    width: 1.5rem;
+    height: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .sidebar{
     position: sticky;
     top: 0;
