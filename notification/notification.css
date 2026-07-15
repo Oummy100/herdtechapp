@@ -1,0 +1,11 @@
+.sidebare{
+    position: sticky !important;
+    top: 0;
+    left: 0;
+
+    width: 85px;
+    height: 100vh;
+
+    overflow-y: auto;
+    overflow-x: hidden;
+}
